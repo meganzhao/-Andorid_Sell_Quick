@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-33:12
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/964d649ce03f4c76d7a742aa80f13a83/AndroidManifest.xml:2:1-6:12
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:2:1-93:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/ac38f2ab0be9e8d788c761ebe6d1cb3b/AndroidManifest.xml:21:1-31:12
@@ -66,20 +66,20 @@ MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/gaoziyang/.
 MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/cbc47005247e475ad5c5ed5189f9adc3/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/e3f0475692dfb674033809d195f4cce8/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/08cde66fa2bb2d0956d747b324c8f01f/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-33:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-33:12
+		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-33:12
+		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:11-69
@@ -102,7 +102,7 @@ ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManife
 	android:name
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:8:5-31:19
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:8:5-36:19
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/964d649ce03f4c76d7a742aa80f13a83/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/964d649ce03f4c76d7a742aa80f13a83/AndroidManifest.xml:5:5-20
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:15:5-91:19
@@ -190,23 +190,31 @@ MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Use
 	android:theme
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:14:9-40
 activity#hu.ait.android.sellquick.MainActivity
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:17:9-23:20
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:17:9-26:20
 	android:name
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:17:19-47
 activity#hu.ait.android.sellquick.LoginActivity
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:24:9-30:20
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:27:9-33:20
 	android:name
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:24:19-48
+		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:27:19-48
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:25:13-29:29
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:26:17-69
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:26:25-66
+		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:28:17-77
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:28:27-74
+		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:31:27-74
+activity#hu.ait.android.sellquick.Books
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:34:9-43
+	android:name
+		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:34:19-40
+activity#hu.ait.android.sellquick.Clothing
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:35:9-55
+	android:name
+		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:35:19-43
 uses-sdk
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml

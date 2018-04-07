@@ -48,6 +48,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="hu.ait.android.sellquick.Books" />
+        <activity android:name="hu.ait.android.sellquick.Clothing" />
 
         <meta-data
             android:name="com.google.android.gms.version"

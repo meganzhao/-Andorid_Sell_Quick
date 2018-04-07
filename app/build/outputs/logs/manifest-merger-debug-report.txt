@@ -1,5 +1,6 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
 ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
@@ -69,11 +70,83 @@ MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Use
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
+=======
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/994a8bb0958aa6fe3894a6c7e1c2cbcf/AndroidManifest.xml:2:1-6:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:2:1-93:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/5328c171e4e3335d736854da6b750a3b/AndroidManifest.xml:21:1-31:12
+MERGED from [com.android.support:design:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/60f79214270513898d740648b6e70b20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/c1f96c683e738facf421f5407db33ade/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-share-4.27.0.aar/1d699eb723292c715d75abc1b6e39df0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:customtabs:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/b553e79425fe9129b41e63ec58c851ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c1348bf0072e528c2357601dea31b25d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/4b17ac5c85d09ce0fae45566ca1f15cb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/b3d5225ada90fe7c6b18f5fcaf4449b5/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/6289381379807051fbd411759945e6a7/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/ddd04c4499ba3671bebd085d16de3ade/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:17:1-39:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/92b904d54a7a40d8f1d3e74904599c8e/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/9941daaf6513477d815291bb6e4df459/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-places-4.27.0.aar/94ca31652b17204d06b956286838a546/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.27.0.aar/ded04c9586f12ad397d429ae89ef27ce/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.27.0.aar/8224a1044654f60acd341d5c95ae8dc7/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/5e627ea9baddafca93f6a478642a5d6a/AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/c1a18df231fc374e70fb3688999b43cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/56c1c83ee9989f875ae49f30f10d92a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/3934349dd49238af9406ff5259152a22/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/05d1995d7896f23521efbe22835f182f/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/60c35da844d32226544e358799d004dc/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f8d676578ef45e4861cc525038bf231e/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/06002dce77de77c168571fdb314ae55a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/c1a50e957d9703be442dfa3ef6f19618/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/4bcbb3dd72d32500f8d30c21669dd596/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/54bb575785ecb14d5208c6f6a9ed8fa1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/5d21f93b6123384fe7f9be68e13c268e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/5e2cb884d74ec88e544d2344f445949a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8795a9425e711d12499d8d28b3bbe949/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/0a9fc9ea7debf7784590b477266e9875/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/aed0f8cb957e1d2d05c1ca3659905f91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c0d2d6508cbe31b3e2128ee393880d57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f3f8440f9f7bce71842caa525537f9c4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/029ae7e90ae48659fe984b41c5703339/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/5df0fbd6ff14e7e45ffc5d18f5328c54/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c06539aaca87efd1104669bc03ac29f1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/44ae564c2a92058fff27004c7c362483/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/043fde5fd43ad8b5af7d28dca882b62b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/edaf992909f8fb67ec3527600a02ddec/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/860430be816f5e62752c1f71ab8aa11b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/bd845f505ac64638a20c9474654b0b33/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/0d658f20a7f61832e3aedb5a735b01d1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/511fa208e0004d0c3a96883655d427f5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/ee9c632530ae34de83e8f9a822b2a82c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/602f7536494ce8163838ac1e07d9be7f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/3646aa82f8d9a120559b9b49ac954f87/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/494aa304ad06bca8dccf02ce8c2da645/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/533a0673a184ce7ff2b71b4952109921/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/5fb4e99b53bfd417145fe6b70febe90c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/f8dd0fbaef2447e79393f497a96f6923/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/87733a188f983111d251141d7134575f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/64b4cf1e8982f453a223e27c11a27f63/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/cd8a8002d75771a8fb264a3aa4510acd/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+>>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
 	package
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:3:5-39
-		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	android:versionName
+<<<<<<< HEAD
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
@@ -81,27 +154,37 @@ INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidMan
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+=======
+		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+>>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
 	xmlns:android
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:13:5-67
-MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:13:5-67
-MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/3a6b25d494459fcae12d88e5be92a1ef/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/3a6b25d494459fcae12d88e5be92a1ef/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/d557bdc4d8b8dfcd0d78ac50572a07a8/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/d557bdc4d8b8dfcd0d78ac50572a07a8/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:23:5-67
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/ddd04c4499ba3671bebd085d16de3ade/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/ddd04c4499ba3671bebd085d16de3ade/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:6:22-76
 application
+<<<<<<< HEAD
 ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:8:5-37:19
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/964d649ce03f4c76d7a742aa80f13a83/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/964d649ce03f4c76d7a742aa80f13a83/AndroidManifest.xml:5:5-20
@@ -177,41 +260,119 @@ MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1]
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/e3f0475692dfb674033809d195f4cce8/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/08cde66fa2bb2d0956d747b324c8f01f/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/08cde66fa2bb2d0956d747b324c8f01f/AndroidManifest.xml:22:5-20
+=======
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:8:5-36:19
+MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/994a8bb0958aa6fe3894a6c7e1c2cbcf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/994a8bb0958aa6fe3894a6c7e1c2cbcf/AndroidManifest.xml:5:5-20
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:15:5-91:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:15:5-91:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/5328c171e4e3335d736854da6b750a3b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/5328c171e4e3335d736854da6b750a3b/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/c1f96c683e738facf421f5407db33ade/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/c1f96c683e738facf421f5407db33ade/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-share-4.27.0.aar/1d699eb723292c715d75abc1b6e39df0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-share-4.27.0.aar/1d699eb723292c715d75abc1b6e39df0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/4b17ac5c85d09ce0fae45566ca1f15cb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/4b17ac5c85d09ce0fae45566ca1f15cb/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/ddd04c4499ba3671bebd085d16de3ade/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/ddd04c4499ba3671bebd085d16de3ade/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:22:5-37:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/92b904d54a7a40d8f1d3e74904599c8e/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/92b904d54a7a40d8f1d3e74904599c8e/AndroidManifest.xml:22:5-28:19
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-places-4.27.0.aar/94ca31652b17204d06b956286838a546/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-places-4.27.0.aar/94ca31652b17204d06b956286838a546/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.27.0.aar/ded04c9586f12ad397d429ae89ef27ce/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.27.0.aar/ded04c9586f12ad397d429ae89ef27ce/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.27.0.aar/8224a1044654f60acd341d5c95ae8dc7/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.27.0.aar/8224a1044654f60acd341d5c95ae8dc7/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/5e627ea9baddafca93f6a478642a5d6a/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/5e627ea9baddafca93f6a478642a5d6a/AndroidManifest.xml:28:5-43:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f8d676578ef45e4861cc525038bf231e/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f8d676578ef45e4861cc525038bf231e/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/06002dce77de77c168571fdb314ae55a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/06002dce77de77c168571fdb314ae55a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/4bcbb3dd72d32500f8d30c21669dd596/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/4bcbb3dd72d32500f8d30c21669dd596/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/edaf992909f8fb67ec3527600a02ddec/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/edaf992909f8fb67ec3527600a02ddec/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/860430be816f5e62752c1f71ab8aa11b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/860430be816f5e62752c1f71ab8aa11b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/bd845f505ac64638a20c9474654b0b33/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/bd845f505ac64638a20c9474654b0b33/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/0d658f20a7f61832e3aedb5a735b01d1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/0d658f20a7f61832e3aedb5a735b01d1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/511fa208e0004d0c3a96883655d427f5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/511fa208e0004d0c3a96883655d427f5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/ee9c632530ae34de83e8f9a822b2a82c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/ee9c632530ae34de83e8f9a822b2a82c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/602f7536494ce8163838ac1e07d9be7f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/602f7536494ce8163838ac1e07d9be7f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/3646aa82f8d9a120559b9b49ac954f87/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/3646aa82f8d9a120559b9b49ac954f87/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/494aa304ad06bca8dccf02ce8c2da645/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/494aa304ad06bca8dccf02ce8c2da645/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/533a0673a184ce7ff2b71b4952109921/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/533a0673a184ce7ff2b71b4952109921/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/5fb4e99b53bfd417145fe6b70febe90c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/5fb4e99b53bfd417145fe6b70febe90c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/f8dd0fbaef2447e79393f497a96f6923/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/f8dd0fbaef2447e79393f497a96f6923/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/87733a188f983111d251141d7134575f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/87733a188f983111d251141d7134575f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/64b4cf1e8982f453a223e27c11a27f63/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/64b4cf1e8982f453a223e27c11a27f63/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/cd8a8002d75771a8fb264a3aa4510acd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/cd8a8002d75771a8fb264a3aa4510acd/AndroidManifest.xml:22:5-20
+>>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
 	android:supportsRtl
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:14:9-40
 activity#hu.ait.android.sellquick.MainActivity
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:17:9-26:20
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:17:9-26:20
 	android:name
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:17:19-47
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:17:19-47
 activity#hu.ait.android.sellquick.LoginActivity
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:27:9-33:20
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:27:9-33:20
 	android:name
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:27:19-48
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:27:19-48
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:28:13-32:29
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:31:27-74
 activity#hu.ait.android.sellquick.Books
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:34:9-43
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:34:9-43
 	android:name
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:34:19-40
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:34:19-40
 activity#hu.ait.android.sellquick.Clothing
+<<<<<<< HEAD
 ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:35:9-46
 	android:name
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:35:19-43
@@ -349,361 +510,496 @@ MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Use
 MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/08cde66fa2bb2d0956d747b324c8f01f/AndroidManifest.xml:20:5-44
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+=======
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:35:9-55
+	android:name
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:35:19-43
+uses-sdk
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/994a8bb0958aa6fe3894a6c7e1c2cbcf/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/994a8bb0958aa6fe3894a6c7e1c2cbcf/AndroidManifest.xml:4:5-43
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/5328c171e4e3335d736854da6b750a3b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/5328c171e4e3335d736854da6b750a3b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:design:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/60f79214270513898d740648b6e70b20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/60f79214270513898d740648b6e70b20/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/c1f96c683e738facf421f5407db33ade/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/c1f96c683e738facf421f5407db33ade/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-share-4.27.0.aar/1d699eb723292c715d75abc1b6e39df0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-share-4.27.0.aar/1d699eb723292c715d75abc1b6e39df0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:customtabs:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/b553e79425fe9129b41e63ec58c851ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/b553e79425fe9129b41e63ec58c851ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c1348bf0072e528c2357601dea31b25d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c1348bf0072e528c2357601dea31b25d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/4b17ac5c85d09ce0fae45566ca1f15cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/4b17ac5c85d09ce0fae45566ca1f15cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/b3d5225ada90fe7c6b18f5fcaf4449b5/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/b3d5225ada90fe7c6b18f5fcaf4449b5/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/6289381379807051fbd411759945e6a7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/6289381379807051fbd411759945e6a7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/ddd04c4499ba3671bebd085d16de3ade/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/ddd04c4499ba3671bebd085d16de3ade/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/92b904d54a7a40d8f1d3e74904599c8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/92b904d54a7a40d8f1d3e74904599c8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/9941daaf6513477d815291bb6e4df459/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/9941daaf6513477d815291bb6e4df459/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-places-4.27.0.aar/94ca31652b17204d06b956286838a546/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-places-4.27.0.aar/94ca31652b17204d06b956286838a546/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.27.0.aar/ded04c9586f12ad397d429ae89ef27ce/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.27.0.aar/ded04c9586f12ad397d429ae89ef27ce/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.27.0.aar/8224a1044654f60acd341d5c95ae8dc7/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.27.0.aar/8224a1044654f60acd341d5c95ae8dc7/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/5e627ea9baddafca93f6a478642a5d6a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/5e627ea9baddafca93f6a478642a5d6a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/c1a18df231fc374e70fb3688999b43cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/c1a18df231fc374e70fb3688999b43cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/56c1c83ee9989f875ae49f30f10d92a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/56c1c83ee9989f875ae49f30f10d92a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/3934349dd49238af9406ff5259152a22/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/3934349dd49238af9406ff5259152a22/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/05d1995d7896f23521efbe22835f182f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/05d1995d7896f23521efbe22835f182f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/60c35da844d32226544e358799d004dc/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/60c35da844d32226544e358799d004dc/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f8d676578ef45e4861cc525038bf231e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f8d676578ef45e4861cc525038bf231e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/06002dce77de77c168571fdb314ae55a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/06002dce77de77c168571fdb314ae55a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/c1a50e957d9703be442dfa3ef6f19618/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/c1a50e957d9703be442dfa3ef6f19618/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/4bcbb3dd72d32500f8d30c21669dd596/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/4bcbb3dd72d32500f8d30c21669dd596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/54bb575785ecb14d5208c6f6a9ed8fa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/54bb575785ecb14d5208c6f6a9ed8fa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/5d21f93b6123384fe7f9be68e13c268e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/5d21f93b6123384fe7f9be68e13c268e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/5e2cb884d74ec88e544d2344f445949a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/5e2cb884d74ec88e544d2344f445949a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8795a9425e711d12499d8d28b3bbe949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8795a9425e711d12499d8d28b3bbe949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/0a9fc9ea7debf7784590b477266e9875/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/0a9fc9ea7debf7784590b477266e9875/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/aed0f8cb957e1d2d05c1ca3659905f91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/aed0f8cb957e1d2d05c1ca3659905f91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c0d2d6508cbe31b3e2128ee393880d57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c0d2d6508cbe31b3e2128ee393880d57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f3f8440f9f7bce71842caa525537f9c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f3f8440f9f7bce71842caa525537f9c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/029ae7e90ae48659fe984b41c5703339/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/029ae7e90ae48659fe984b41c5703339/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/5df0fbd6ff14e7e45ffc5d18f5328c54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/5df0fbd6ff14e7e45ffc5d18f5328c54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c06539aaca87efd1104669bc03ac29f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c06539aaca87efd1104669bc03ac29f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/44ae564c2a92058fff27004c7c362483/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/44ae564c2a92058fff27004c7c362483/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/043fde5fd43ad8b5af7d28dca882b62b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/043fde5fd43ad8b5af7d28dca882b62b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/edaf992909f8fb67ec3527600a02ddec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/edaf992909f8fb67ec3527600a02ddec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/860430be816f5e62752c1f71ab8aa11b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/860430be816f5e62752c1f71ab8aa11b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/bd845f505ac64638a20c9474654b0b33/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/bd845f505ac64638a20c9474654b0b33/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/0d658f20a7f61832e3aedb5a735b01d1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/0d658f20a7f61832e3aedb5a735b01d1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/511fa208e0004d0c3a96883655d427f5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/511fa208e0004d0c3a96883655d427f5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/ee9c632530ae34de83e8f9a822b2a82c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/ee9c632530ae34de83e8f9a822b2a82c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/602f7536494ce8163838ac1e07d9be7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/602f7536494ce8163838ac1e07d9be7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/3646aa82f8d9a120559b9b49ac954f87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/3646aa82f8d9a120559b9b49ac954f87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/494aa304ad06bca8dccf02ce8c2da645/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/494aa304ad06bca8dccf02ce8c2da645/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/533a0673a184ce7ff2b71b4952109921/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/533a0673a184ce7ff2b71b4952109921/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/5fb4e99b53bfd417145fe6b70febe90c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/5fb4e99b53bfd417145fe6b70febe90c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/f8dd0fbaef2447e79393f497a96f6923/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/f8dd0fbaef2447e79393f497a96f6923/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/87733a188f983111d251141d7134575f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/87733a188f983111d251141d7134575f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/64b4cf1e8982f453a223e27c11a27f63/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/64b4cf1e8982f453a223e27c11a27f63/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/cd8a8002d75771a8fb264a3aa4510acd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/cd8a8002d75771a8fb264a3aa4510acd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+>>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
 	android:targetSdkVersion
-		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:12:5-79
-MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/d557bdc4d8b8dfcd0d78ac50572a07a8/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/d557bdc4d8b8dfcd0d78ac50572a07a8/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:22:5-79
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:12:22-76
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:12:22-76
 meta-data#com.google.android.gms.version
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:16:9-18:69
-MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/c591bd8fd89250efb5514e491e464e24/AndroidManifest.xml:23:9-25:69
-MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/c591bd8fd89250efb5514e491e464e24/AndroidManifest.xml:23:9-25:69
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/4bcbb3dd72d32500f8d30c21669dd596/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/4bcbb3dd72d32500f8d30c21669dd596/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:18:13-66
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:18:13-66
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:17:13-58
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:17:13-58
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:19:9-21:63
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:19:9-21:63
 	android:value
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:21:13-60
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:21:13-60
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:20:13-58
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:20:13-58
 activity#com.firebase.ui.auth.KickoffActivity
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:23:9-27:61
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:23:9-27:61
 	android:label
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:26:13-29
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:26:13-29
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:25:13-37
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:27:13-58
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:27:13-58
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:24:13-64
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:24:13-64
 activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:28:9-32:61
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:28:9-32:61
 	android:label
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:31:13-29
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:31:13-29
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:30:13-37
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:30:13-37
 	android:theme
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:32:13-58
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:32:13-58
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:29:13-76
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:29:13-76
 activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:33:9-37:58
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:33:9-37:58
 	android:label
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:36:13-72
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:36:13-72
 	android:windowSoftInputMode
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:37:13-55
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:37:13-55
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:35:13-37
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:34:13-81
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:34:13-81
 activity#com.firebase.ui.auth.ui.email.EmailActivity
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:38:9-42:58
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:38:9-42:58
 	android:label
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:41:13-56
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:41:13-56
 	android:windowSoftInputMode
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:42:13-55
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:42:13-55
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:40:13-37
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:39:13-71
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:39:13-71
 activity#com.firebase.ui.auth.ui.phone.PhoneActivity
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:43:9-47:77
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:43:9-47:77
 	android:label
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:46:13-66
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:46:13-66
 	android:windowSoftInputMode
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:47:13-74
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:47:13-74
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:45:13-37
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:45:13-37
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:44:13-71
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:44:13-71
 activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:48:9-52:58
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:48:9-52:58
 	android:label
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:51:13-70
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:51:13-70
 	android:windowSoftInputMode
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:52:13-55
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:52:13-55
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:50:13-37
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:50:13-37
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:49:13-76
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:49:13-76
 activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:53:9-57:58
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:53:9-57:58
 	android:label
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:56:13-75
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:56:13-75
 	android:windowSoftInputMode
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:57:13-55
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:57:13-55
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:55:13-37
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:55:13-37
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:54:13-83
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:54:13-83
 activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:58:9-61:65
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:58:9-61:65
 	android:label
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:61:13-62
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:61:13-62
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:60:13-37
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:60:13-37
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:59:13-80
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:59:13-80
 activity#com.facebook.FacebookActivity
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:62:9-66:48
-MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/17990e58bb6c471a6f8f24db07f1220b/AndroidManifest.xml:29:9-32:66
-MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/17990e58bb6c471a6f8f24db07f1220b/AndroidManifest.xml:29:9-32:66
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:62:9-66:48
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:65:13-45
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:65:13-45
 	tools:ignore
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:66:13-45
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:66:13-45
 	android:configChanges
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:64:13-96
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:64:13-96
 	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/17990e58bb6c471a6f8f24db07f1220b/AndroidManifest.xml:32:13-63
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:63:13-57
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:63:13-57
 activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:67:9-71:61
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:67:9-71:61
 	android:label
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:70:13-29
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:70:13-29
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:69:13-37
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:69:13-37
 	android:theme
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:71:13-58
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:71:13-58
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:68:13-86
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:68:13-86
 activity#com.facebook.CustomTabActivity
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:72:9-84:20
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:72:9-84:20
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:74:13-36
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:74:13-36
 	tools:ignore
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:75:13-45
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:75:13-45
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:73:13-58
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:73:13-58
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:76:13-83:29
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:76:13-83:29
 action#android.intent.action.VIEW
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:77:17-69
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:77:17-69
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:77:25-66
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:77:25-66
 category#android.intent.category.DEFAULT
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:79:17-76
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:79:17-76
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:79:27-73
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:79:27-73
 category#android.intent.category.BROWSABLE
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:80:17-78
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:80:17-78
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:80:27-75
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:80:27-75
 data
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:82:17-81
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:82:17-81
 	android:scheme
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:82:23-78
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:82:23-78
 provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
-ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:86:9-90:38
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:86:9-90:38
 	android:authorities
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:88:13-70
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:88:13-70
 	android:exported
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:89:13-37
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:89:13-37
 	android:initOrder
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:90:13-35
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:90:13-35
 	android:name
-		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:87:13-79
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/21649d8de8ef12774ddbb65a9768b9fc/AndroidManifest.xml:87:13-79
 activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/17990e58bb6c471a6f8f24db07f1220b/AndroidManifest.xml:33:9-71
+ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/AndroidManifest.xml:33:9-71
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/17990e58bb6c471a6f8f24db07f1220b/AndroidManifest.xml:33:19-68
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/AndroidManifest.xml:33:19-68
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/7ed66b89d7e52fcd9f4e6fec8e99705e/AndroidManifest.xml:23:9-29:75
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:23:9-29:75
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/7ed66b89d7e52fcd9f4e6fec8e99705e/AndroidManifest.xml:25:13-46
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:25:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/7ed66b89d7e52fcd9f4e6fec8e99705e/AndroidManifest.xml:27:13-48
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:27:13-48
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/7ed66b89d7e52fcd9f4e6fec8e99705e/AndroidManifest.xml:26:13-36
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:26:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/7ed66b89d7e52fcd9f4e6fec8e99705e/AndroidManifest.xml:28:13-102
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:28:13-102
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/7ed66b89d7e52fcd9f4e6fec8e99705e/AndroidManifest.xml:29:13-72
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:29:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/7ed66b89d7e52fcd9f4e6fec8e99705e/AndroidManifest.xml:24:13-85
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/bf49dfa8a1b993283e278fda20b2a260/AndroidManifest.xml:24:13-85
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/d557bdc4d8b8dfcd0d78ac50572a07a8/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/d557bdc4d8b8dfcd0d78ac50572a07a8/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:24:5-68
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:25:22-65
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:25:22-65
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:28:9-32:20
-MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/d557bdc4d8b8dfcd0d78ac50572a07a8/AndroidManifest.xml:28:9-32:20
-MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/d557bdc4d8b8dfcd0d78ac50572a07a8/AndroidManifest.xml:28:9-32:20
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:28:9-32:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:30:13-35
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:30:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:31:13-37
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:29:13-85
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:29:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:33:9-41:20
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:33:9-41:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:35:13-35
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:35:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:36:13-36
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:36:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:37:13-69
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:37:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:34:13-100
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:34:13-100
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:38:13-40:29
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:38:13-40:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:39:17-79
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:39:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:39:25-76
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:39:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:43:9-46:40
-MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/d557bdc4d8b8dfcd0d78ac50572a07a8/AndroidManifest.xml:34:9-37:40
-MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/d557bdc4d8b8dfcd0d78ac50572a07a8/AndroidManifest.xml:34:9-37:40
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/e9894b8b54ccf56fe1ea11ed0774c5a2/AndroidManifest.xml:34:9-37:40
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:45:13-35
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:45:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:46:13-37
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:46:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:44:13-84
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:44:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:47:9-51:72
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:47:9-51:72
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:49:13-35
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:49:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:50:13-37
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:50:13-37
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:51:13-69
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:51:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/970948787a02a83d92a6f6bcd19926e7/AndroidManifest.xml:48:13-87
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/f4d26ad3da87a7acf00a27213ddbdda0/AndroidManifest.xml:48:13-87
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/0126001338b32e4d2e1a0a69ec6efc75/AndroidManifest.xml:23:9-27:75
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/0126001338b32e4d2e1a0a69ec6efc75/AndroidManifest.xml:25:13-46
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/0126001338b32e4d2e1a0a69ec6efc75/AndroidManifest.xml:26:13-37
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/0126001338b32e4d2e1a0a69ec6efc75/AndroidManifest.xml:27:13-72
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/0126001338b32e4d2e1a0a69ec6efc75/AndroidManifest.xml:24:13-93
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:24:13-93
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/0126001338b32e4d2e1a0a69ec6efc75/AndroidManifest.xml:33:9-36:110
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:33:9-36:110
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/0126001338b32e4d2e1a0a69ec6efc75/AndroidManifest.xml:35:13-36
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:35:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/0126001338b32e4d2e1a0a69ec6efc75/AndroidManifest.xml:36:13-107
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:36:13-107
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/0126001338b32e4d2e1a0a69ec6efc75/AndroidManifest.xml:34:13-89
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/17e31042d9e2126aff8f37d34fd9d1da/AndroidManifest.xml:34:13-89
 provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3724e490a84abdc903679ff85662fb26/AndroidManifest.xml:23:9-27:43
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/92b904d54a7a40d8f1d3e74904599c8e/AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3724e490a84abdc903679ff85662fb26/AndroidManifest.xml:25:13-68
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/92b904d54a7a40d8f1d3e74904599c8e/AndroidManifest.xml:25:13-68
 	android:multiprocess
-		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3724e490a84abdc903679ff85662fb26/AndroidManifest.xml:27:13-40
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/92b904d54a7a40d8f1d3e74904599c8e/AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3724e490a84abdc903679ff85662fb26/AndroidManifest.xml:26:13-37
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/92b904d54a7a40d8f1d3e74904599c8e/AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3724e490a84abdc903679ff85662fb26/AndroidManifest.xml:24:13-83
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/92b904d54a7a40d8f1d3e74904599c8e/AndroidManifest.xml:24:13-83
 provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/9be46a8aa3282c6257a1cab8aedf4e1f/AndroidManifest.xml:39:9-42:40
+ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/5e627ea9baddafca93f6a478642a5d6a/AndroidManifest.xml:39:9-42:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/9be46a8aa3282c6257a1cab8aedf4e1f/AndroidManifest.xml:41:13-72
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/5e627ea9baddafca93f6a478642a5d6a/AndroidManifest.xml:41:13-72
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/9be46a8aa3282c6257a1cab8aedf4e1f/AndroidManifest.xml:42:13-37
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/5e627ea9baddafca93f6a478642a5d6a/AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/9be46a8aa3282c6257a1cab8aedf4e1f/AndroidManifest.xml:40:13-70
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/5e627ea9baddafca93f6a478642a5d6a/AndroidManifest.xml:40:13-70
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b1717fda413e3b270b7490b0dd220bdf/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b1717fda413e3b270b7490b0dd220bdf/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b1717fda413e3b270b7490b0dd220bdf/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b1717fda413e3b270b7490b0dd220bdf/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/AndroidManifest.xml:24:13-79
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:26:5-82
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:26:22-79
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:26:22-79
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:28:5-30:47
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:28:5-30:47
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:30:9-44
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:30:9-44
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:29:9-63
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:29:9-63
 permission#hu.ait.android.sellquick.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:28:5-30:47
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:28:5-30:47
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:30:9-44
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:30:9-44
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:29:9-63
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:29:9-63
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:32:5-79
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:32:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:32:22-76
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:32:22-76
 uses-permission#hu.ait.android.sellquick.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:32:5-79
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:32:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:32:22-76
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:32:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:35:9-44:20
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:35:9-44:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:37:13-36
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:37:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:38:13-73
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:38:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:36:13-78
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:36:13-78
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:39:13-43:29
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:39:13-43:29
 intent-filter#com.google.android.c2dm.intent.RECEIVE+hu.ait.android.sellquick
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:39:13-43:29
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:39:13-43:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:40:17-81
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:40:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:40:25-78
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:40:25-78
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:42:17-61
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:42:17-61
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:42:27-58
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:42:27-58
 category#hu.ait.android.sellquick
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:42:17-61
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:42:17-61
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:42:27-58
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:42:27-58
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:50:9-56:19
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:50:9-56:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:52:13-36
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:52:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:51:13-77
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:51:13-77
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:53:13-55:29
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:53:13-55:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:53:28-51
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:53:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:54:17-80
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:54:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/d702da6c440f8fc0bc455846dbf5bec2/AndroidManifest.xml:54:25-77
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/65900288503e7e4d2e2bc3c33762427d/AndroidManifest.xml:54:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/c6bbdf2f5103607b81f548ea0acd2aba/AndroidManifest.xml:8:9-12:39
+ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f8d676578ef45e4861cc525038bf231e/AndroidManifest.xml:8:9-12:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/c6bbdf2f5103607b81f548ea0acd2aba/AndroidManifest.xml:10:13-72
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f8d676578ef45e4861cc525038bf231e/AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/c6bbdf2f5103607b81f548ea0acd2aba/AndroidManifest.xml:11:13-37
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f8d676578ef45e4861cc525038bf231e/AndroidManifest.xml:11:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/c6bbdf2f5103607b81f548ea0acd2aba/AndroidManifest.xml:12:13-36
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f8d676578ef45e4861cc525038bf231e/AndroidManifest.xml:12:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/c6bbdf2f5103607b81f548ea0acd2aba/AndroidManifest.xml:9:13-77
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/f8d676578ef45e4861cc525038bf231e/AndroidManifest.xml:9:13-77

@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
+            "outputFile": "/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
             "map": [
                 {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/fdd056005c8d412ac160b77d9f25cc0f/res/values-km/values-km.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4642",
-                        "endColumns": "100",
-                        "endOffsets": "4738"
-                    }
-                },
-                {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b1717fda413e3b270b7490b0dd220bdf/res/values-km/values.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/res/values-km/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/c591bd8fd89250efb5514e491e464e24/res/values-km/values.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c1348bf0072e528c2357601dea31b25d/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,308,420,507,611,729,806,883,966,1070,1175,1275,1385,1492,1600,1762,1860",
+                        "endColumns": "102,99,111,86,103,117,76,76,82,103,104,99,109,106,107,161,97,82",
+                        "endOffsets": "203,303,415,502,606,724,801,878,961,1065,1170,1270,1380,1487,1595,1757,1855,1938"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,308,420,507,611,729,806,883,966,1070,1175,1275,1385,1492,1600,1762,4559",
+                        "endColumns": "102,99,111,86,103,117,76,76,82,103,104,99,109,106,107,161,97,82",
+                        "endOffsets": "203,303,415,502,606,724,801,878,961,1065,1170,1270,1380,1487,1595,1757,1855,4637"
+                    }
+                },
+                {
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/4bcbb3dd72d32500f8d30c21669dd596/res/values-km/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,20 +55,20 @@
                     }
                 },
                 {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/values-km/values-km.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f3f8440f9f7bce71842caa525537f9c4/res/values-km/values-km.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,308,420,507,611,729,806,883,966,1070,1175,1275,1385,1492,1600,1762,1860",
-                        "endColumns": "102,99,111,86,103,117,76,76,82,103,104,99,109,106,107,161,97,82",
-                        "endOffsets": "203,303,415,502,606,724,801,878,961,1065,1170,1270,1380,1487,1595,1757,1855,1938"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,308,420,507,611,729,806,883,966,1070,1175,1275,1385,1492,1600,1762,4559",
-                        "endColumns": "102,99,111,86,103,117,76,76,82,103,104,99,109,106,107,161,97,82",
-                        "endOffsets": "203,303,415,502,606,724,801,878,961,1065,1170,1270,1380,1487,1595,1757,1855,4637"
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4642",
+                        "endColumns": "100",
+                        "endOffsets": "4738"
                     }
                 }
             ]

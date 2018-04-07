@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/values-v23/values-v23.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c1348bf0072e528c2357601dea31b25d/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/804aafeb7d7a816fb07bf690de365d6c/res/values-v23/values-v23.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/9941daaf6513477d815291bb6e4df459/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -6,11 +6,13 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.firebase.ui.auth.AuthUI;
 import com.firebase.ui.auth.ErrorCodes;
 import com.firebase.ui.auth.IdpResponse;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 
 import java.util.Arrays;
 import java.util.List;
@@ -22,19 +24,12 @@ public class LoginActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
     private Button button;
 
-    // Choose authentication providers
-    List<AuthUI.IdpConfig> providers = Arrays.asList(
-            new AuthUI.IdpConfig.Builder(AuthUI.EMAIL_PROVIDER).build(),
-            new AuthUI.IdpConfig.Builder(AuthUI.GOOGLE_PROVIDER).build(),
-            new AuthUI.IdpConfig.Builder(AuthUI.FACEBOOK_PROVIDER).build());
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
+        //testing to go to next page
         button = findViewById(R.id.buttonSignin);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -43,25 +38,34 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
 
+        // Choose authentication providers
+        List<AuthUI.IdpConfig> providers = Arrays.asList(
+                new AuthUI.IdpConfig.Builder(AuthUI.EMAIL_PROVIDER).build(),
+                new AuthUI.IdpConfig.Builder(AuthUI.GOOGLE_PROVIDER).build(),
+                new AuthUI.IdpConfig.Builder(AuthUI.FACEBOOK_PROVIDER).build());
+
+        mAuth = FirebaseAuth.getInstance();
+
+        if(mAuth.getCurrentUser() == null){
+            startActivityForResult(
+                    AuthUI.getInstance()
+                            .createSignInIntentBuilder()
+                            .setIsSmartLockEnabled(false)
+                            .setAvailableProviders(providers)
+                            .setTosUrl("https://superapp.example.com/terms-of-service.html")
+                            .setPrivacyPolicyUrl("https://superapp.example.com/privacy-policy.html")
+                            .build(),
+                    RC_SIGN_IN
+            );
+        }
+
+        //not sure if we need this or not
         for (String provider: AuthUI.SUPPORTED_PROVIDERS){
             Log.v(this.getClass().getName(), provider);
         }
 
-        mAuth = FirebaseAuth.getInstance();
     }
 
-    public void signIn(View view){
-        startActivityForResult(
-                AuthUI.getInstance()
-                    .createSignInIntentBuilder()
-                    .setIsSmartLockEnabled(false)
-                    .setAvailableProviders(providers)
-                    .setTosUrl("https://superapp.example.com/terms-of-service.html")
-                    .setPrivacyPolicyUrl("https://superapp.example.com/privacy-policy.html")
-                    .build(),
-                RC_SIGN_IN
-        );
-    }
 
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
@@ -71,23 +75,24 @@ public class LoginActivity extends AppCompatActivity {
 
             // Successfully signed in
             if (resultCode == RESULT_OK) {
+                FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
                 startActivity(new Intent(LoginActivity.this, MainActivity.class));
                 finish();
             } else {
                 // Sign in failed
                 if (response == null) {
                     // User pressed back button
-                    //showSnackbar(R.string.sign_in_cancelled);
+                    Toast.makeText(this,"Cancelled", Toast.LENGTH_SHORT).show();
                     return;
                 }
-
                 if (response.getError().getErrorCode() == ErrorCodes.NO_NETWORK) {
-                    //showSnackbar(R.string.no_internet_connection);
+                    Toast.makeText(this,"No Internet", Toast.LENGTH_SHORT).show();
                     return;
                 }
-
-                //showSnackbar(R.string.unknown_error);
-                //Log.e(TAG, "Sign-in error: ", response.getError());
+                if (response.getError().getErrorCode() == ErrorCodes.UNKNOWN_ERROR) {
+                    Toast.makeText(this,"Unknow Error", Toast.LENGTH_SHORT).show();
+                    return;
+                }
             }
         }
     }

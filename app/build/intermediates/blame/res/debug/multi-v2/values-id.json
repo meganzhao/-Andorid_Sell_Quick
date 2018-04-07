@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
+            "outputFile": "/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
             "map": [
                 {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/17990e58bb6c471a6f8f24db07f1220b/res/values-id/values-id.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/8bb649eb6e5dd569bc234efdeba3186c/res/values-id/values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

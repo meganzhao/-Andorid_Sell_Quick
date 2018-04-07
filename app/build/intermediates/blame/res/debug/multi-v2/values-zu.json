@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+            "outputFile": "/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
             "map": [
                 {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b1717fda413e3b270b7490b0dd220bdf/res/values-zu/values.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/res/values-zu/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/c591bd8fd89250efb5514e491e464e24/res/values-zu/values.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f3f8440f9f7bce71842caa525537f9c4/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4733",
+                        "endColumns": "100",
+                        "endOffsets": "4829"
+                    }
+                },
+                {
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/4bcbb3dd72d32500f8d30c21669dd596/res/values-zu/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/values-zu/values-zu.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c1348bf0072e528c2357601dea31b25d/res/values-zu/values-zu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -52,23 +69,6 @@
                         "startOffsets": "105,213,320,434,522,625,752,832,912,998,1102,1208,1306,1413,1519,1625,1782,4652",
                         "endColumns": "107,106,113,87,102,126,79,79,85,103,105,97,106,105,105,156,95,80",
                         "endOffsets": "208,315,429,517,620,747,827,907,993,1097,1203,1301,1408,1514,1620,1777,1873,4728"
-                    }
-                },
-                {
-                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/fdd056005c8d412ac160b77d9f25cc0f/res/values-zu/values-zu.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4733",
-                        "endColumns": "100",
-                        "endOffsets": "4829"
                     }
                 }
             ]

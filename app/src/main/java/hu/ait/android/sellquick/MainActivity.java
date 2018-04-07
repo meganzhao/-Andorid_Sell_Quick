@@ -1,6 +1,7 @@
 package hu.ait.android.sellquick;
 
 import android.content.Intent;
+import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -10,12 +11,17 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
 import com.facebook.FacebookSdk;
+import com.firebase.ui.auth.AuthUI;
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.auth.FirebaseAuth;
+
+import java.util.Arrays;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
     private DrawerLayout drawerLayout;
     private ActionBarDrawerToggle toggle;
-
-    //fuck me please
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         //FloatingActionButton fab =
 
         createNavigation();
+
     }
 
     private void createNavigation() {
@@ -56,10 +63,26 @@ public class MainActivity extends AppCompatActivity {
                                 //openMap();
                                 drawerLayout.closeDrawer(GravityCompat.START);
                                 break;
+                            case R.id.nav_signout:
+                                signOut();
+                                drawerLayout.closeDrawer(GravityCompat.START);
+                                break;
                         }
                         return false;                    }
                 }
         );
+    }
+
+    private void signOut() {
+        AuthUI.getInstance()
+                .signOut(this)
+                .addOnCompleteListener(new OnCompleteListener<Void>() {
+                    public void onComplete(@NonNull Task<Void> task) {
+                        // user is now signed out
+                        startActivity(new Intent(MainActivity.this, LoginActivity.class));
+                        finish();
+                    }
+                });
     }
 
     @Override

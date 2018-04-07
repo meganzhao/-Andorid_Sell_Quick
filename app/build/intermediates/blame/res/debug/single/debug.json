@@ -8,20 +8,20 @@
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable_fui_ic_twitter_bird_white_24dp.xml.flat",
-        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/res/drawable/fui_ic_twitter_bird_white_24dp.xml"
-    },
-    {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_blue.png.flat",
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-share-4.27.0.aar/c177dd4d2c669d78af5e31b531002f1c/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
-        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
-        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/03b2ac4437706bf9df806c3cf279fd29/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable_fui_ic_twitter_bird_white_24dp.xml.flat",
+        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/res/drawable/fui_ic_twitter_bird_white_24dp.xml"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/layout_fui_provider_button_email.xml.flat",
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/res/layout/fui_provider_button_email.xml"
+    },
+    {
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/03b2ac4437706bf9df806c3cf279fd29/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -52,16 +52,16 @@
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
-        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/color/switch_thumb_material_light.xml"
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility.xml.flat",
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/03b2ac4437706bf9df806c3cf279fd29/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
-        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
@@ -72,12 +72,12 @@
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b1717fda413e3b270b7490b0dd220bdf/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
     },
     {
-        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
-        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/color-v23/abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -152,16 +152,16 @@
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/03b2ac4437706bf9df806c3cf279fd29/res/animator-v21/design_appbar_state_list_animator.xml"
     },
     {
-        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
-        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/anim/abc_fade_in.xml"
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/4b376ccee974269970be7f17256d5490/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/fdd056005c8d412ac160b77d9f25cc0f/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/4b376ccee974269970be7f17256d5490/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
@@ -196,20 +196,20 @@
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/fdd056005c8d412ac160b77d9f25cc0f/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
-        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/fdd056005c8d412ac160b77d9f25cc0f/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
-        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/color/abc_hint_foreground_material_dark.xml"
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
@@ -228,12 +228,12 @@
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/res/layout/fui_idp_button_facebook.xml"
     },
     {
-        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/color_com_facebook_send_button_text_color.xml.flat",
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-share-4.27.0.aar/c177dd4d2c669d78af5e31b531002f1c/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -686,6 +686,10 @@
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/585b9309ab5f8afe6f1714edb5c32976/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/layout_activity_add_item.xml.flat",
+        "source": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/res/layout/activity_add_item.xml"
     },
     {
         "merged": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/res/merged/debug/anim_design_bottom_sheet_slide_in.xml.flat",

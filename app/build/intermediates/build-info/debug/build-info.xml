@@ -6,7 +6,7 @@
     density="xhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1523128244360"
+    timestamp="1523143452607"
     token="4495216059629972603"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -23,6 +23,9 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/outputs/apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
     <artifact
         location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
@@ -56,14 +59,14 @@
     <artifact
         location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
-    <artifact
-        location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/outputs/apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1523128244360"
+        timestamp="1523143452607"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/outputs/apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
@@ -97,9 +100,6 @@
         <artifact
             location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
-        <artifact
-            location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/outputs/apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

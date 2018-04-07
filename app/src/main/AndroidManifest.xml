@@ -32,7 +32,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Books" />
-        <activity android:name=".Clothing"></activity>
+        <activity android:name=".Clothing" />
+        <activity android:name=".addItem"></activity>
     </application>
 
 </manifest>

@@ -1,13 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/964d649ce03f4c76d7a742aa80f13a83/AndroidManifest.xml:2:1-6:12
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:2:1-93:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/ac38f2ab0be9e8d788c761ebe6d1cb3b/AndroidManifest.xml:21:1-31:12
 MERGED from [com.android.support:design:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/03b2ac4437706bf9df806c3cf279fd29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/6e180603e1639f86516072ba78911ab3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/4b376ccee974269970be7f17256d5490/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-share-4.27.0.aar/c177dd4d2c669d78af5e31b531002f1c/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-common:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/17990e58bb6c471a6f8f24db07f1220b/AndroidManifest.xml:21:1-36:12
@@ -26,7 +27,6 @@ MERGED from [com.facebook.android:facebook-places:4.27.0] /Users/gaoziyang/.grad
 MERGED from [com.facebook.android:facebook-applinks:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.27.0.aar/8a5a7382b870ad92a4ea31ae5e4a844c/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.27.0.aar/59f6d2e74165b1b347f29bb108a2e6b6/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/9be46a8aa3282c6257a1cab8aedf4e1f/AndroidManifest.xml:21:1-45:12
-MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/6e180603e1639f86516072ba78911ab3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:transition:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/ff2f2b51486e04a0239a76759c1d0c55/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/3bb5738490b53d1f1aec89f5d15ce916/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/cf797c2e797192d46b712237de5557f5/AndroidManifest.xml:2:1-7:12
@@ -39,10 +39,10 @@ MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/gaoziyang
 MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/7ed94ae9a4f81c95a64f0c009c0b8390/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/c591bd8fd89250efb5514e491e464e24/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/154e271c06f9b5fae45e517e8c11c32d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/641890503b1c383ae97f4a7154172512/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/33290f303d2f4ac6062d822398ec4ff0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/2818e593a0df5954967a3eb0a68d7c64/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/b6da5a9a5974c70914135751887ec833/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/641890503b1c383ae97f4a7154172512/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/e3dedb975fe4f675e098149cca99e497/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/4344c9f52e442f9063fb19d62706f303/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/fdd056005c8d412ac160b77d9f25cc0f/AndroidManifest.xml:17:1-22:12
@@ -66,20 +66,20 @@ MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/gaoziyang/.
 MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/cbc47005247e475ad5c5ed5189f9adc3/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/e3f0475692dfb674033809d195f4cce8/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/08cde66fa2bb2d0956d747b324c8f01f/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:11-69
@@ -102,7 +102,7 @@ ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManife
 	android:name
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:8:5-36:19
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:8:5-37:19
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/964d649ce03f4c76d7a742aa80f13a83/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/964d649ce03f4c76d7a742aa80f13a83/AndroidManifest.xml:5:5-20
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/cff2b918a618f2aba4279844f21e5356/AndroidManifest.xml:15:5-91:19
@@ -212,9 +212,13 @@ ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManife
 	android:name
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:34:19-40
 activity#hu.ait.android.sellquick.Clothing
-ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:35:9-55
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:35:9-46
 	android:name
 		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:35:19-43
+activity#hu.ait.android.sellquick.addItem
+ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:36:9-54
+	android:name
+		ADDED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:36:19-42
 uses-sdk
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/gaoziyang/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
@@ -227,6 +231,8 @@ MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/gaoziyang/
 MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/ac38f2ab0be9e8d788c761ebe6d1cb3b/AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:design:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/03b2ac4437706bf9df806c3cf279fd29/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/03b2ac4437706bf9df806c3cf279fd29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/6e180603e1639f86516072ba78911ab3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/6e180603e1639f86516072ba78911ab3/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/4b376ccee974269970be7f17256d5490/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/4b376ccee974269970be7f17256d5490/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-share:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-share-4.27.0.aar/c177dd4d2c669d78af5e31b531002f1c/AndroidManifest.xml:24:5-26:41
@@ -263,8 +269,6 @@ MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/gaoziyang/.g
 MERGED from [com.facebook.android:facebook-messenger:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.27.0.aar/59f6d2e74165b1b347f29bb108a2e6b6/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/9be46a8aa3282c6257a1cab8aedf4e1f/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-core:4.27.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/9be46a8aa3282c6257a1cab8aedf4e1f/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/6e180603e1639f86516072ba78911ab3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/6e180603e1639f86516072ba78911ab3/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/ff2f2b51486e04a0239a76759c1d0c55/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/ff2f2b51486e04a0239a76759c1d0c55/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/3bb5738490b53d1f1aec89f5d15ce916/AndroidManifest.xml:5:5-44
@@ -289,14 +293,14 @@ MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/gaoziy
 MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/c591bd8fd89250efb5514e491e464e24/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/154e271c06f9b5fae45e517e8c11c32d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/154e271c06f9b5fae45e517e8c11c32d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/641890503b1c383ae97f4a7154172512/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/641890503b1c383ae97f4a7154172512/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/33290f303d2f4ac6062d822398ec4ff0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/33290f303d2f4ac6062d822398ec4ff0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/2818e593a0df5954967a3eb0a68d7c64/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/2818e593a0df5954967a3eb0a68d7c64/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/b6da5a9a5974c70914135751887ec833/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/b6da5a9a5974c70914135751887ec833/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/641890503b1c383ae97f4a7154172512/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/641890503b1c383ae97f4a7154172512/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/e3dedb975fe4f675e098149cca99e497/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/e3dedb975fe4f675e098149cca99e497/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/4344c9f52e442f9063fb19d62706f303/AndroidManifest.xml:20:5-44

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "50436476205",
+    "firebase_url": "https://sellquick-4f6c6.firebaseio.com",
+    "project_id": "sellquick-4f6c6",
+    "storage_bucket": "sellquick-4f6c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50436476205:android:cf81c89965f5f5ef",
+        "android_client_info": {
+          "package_name": "hu.ait.android.sellquick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50436476205-b7aveo2g7jhh3qq330asocg65fh6a85p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.ait.android.sellquick",
+            "certificate_hash": "c7abb2008427c74fa16dc5ccac8102464c3dc878"
+          }
+        },
+        {
+          "client_id": "50436476205-s91uem2n6r982lrrpn5hrpfli322eufu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNyci1W6uhzGsK9TyF8m3fc68j0DAxGf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50436476205-s91uem2n6r982lrrpn5hrpfli322eufu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Apr 07 13:18:54 CDT 2018
+0.baseType=DIRECTORY
+0.base=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/assets/debug
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1

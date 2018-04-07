@@ -1,4 +1,4 @@
-#Fri Apr 06 22:08:04 CDT 2018
+#Sat Apr 07 13:19:01 CDT 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -11,8 +11,8 @@ base.5=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/tra
 base.4=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/12
 base.3=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/15
 base.2=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/14
-base.1=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/17
-base.0=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/16
+base.1=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/16
+base.0=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/11
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex

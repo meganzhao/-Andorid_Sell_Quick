@@ -3,7 +3,7 @@
     package="hu.ait.android.sellquick.test" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="16"
         android:targetSdkVersion="26" />
 
     <instrumentation

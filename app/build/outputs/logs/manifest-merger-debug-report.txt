@@ -4,11 +4,14 @@ ADDED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidMan
 INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe5300323f0bbe96dee7b865bfdeb3b0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/40dd408112b4d7b0c436a4de6cf620c1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/2242a880e22f4ad5eb5ecdeac64126a8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0d5f8f22384230f45782475149a77621/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9cc99ecc909fb99db6b1e19ad776d858/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7c8467c12d67e533af3d73e7c21304d9/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e54b736348fc6350b87bc9eb86724f6/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c636c46c1a4ab7861ecd1b3709c5f100/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6ff3ec215541e95e5367aacf84c3804c/AndroidManifest.xml:17:1-31:12
@@ -34,16 +37,22 @@ INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/Android
 		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe5300323f0bbe96dee7b865bfdeb3b0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe5300323f0bbe96dee7b865bfdeb3b0/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/40dd408112b4d7b0c436a4de6cf620c1/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/40dd408112b4d7b0c436a4de6cf620c1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/2242a880e22f4ad5eb5ecdeac64126a8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/2242a880e22f4ad5eb5ecdeac64126a8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0d5f8f22384230f45782475149a77621/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0d5f8f22384230f45782475149a77621/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9cc99ecc909fb99db6b1e19ad776d858/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9cc99ecc909fb99db6b1e19ad776d858/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7c8467c12d67e533af3d73e7c21304d9/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7c8467c12d67e533af3d73e7c21304d9/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e54b736348fc6350b87bc9eb86724f6/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e54b736348fc6350b87bc9eb86724f6/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c636c46c1a4ab7861ecd1b3709c5f100/AndroidManifest.xml:25:5-29:19
@@ -86,16 +95,22 @@ uses-sdk
 INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml
 INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe5300323f0bbe96dee7b865bfdeb3b0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe5300323f0bbe96dee7b865bfdeb3b0/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/40dd408112b4d7b0c436a4de6cf620c1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/40dd408112b4d7b0c436a4de6cf620c1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/2242a880e22f4ad5eb5ecdeac64126a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/2242a880e22f4ad5eb5ecdeac64126a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0d5f8f22384230f45782475149a77621/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0d5f8f22384230f45782475149a77621/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9cc99ecc909fb99db6b1e19ad776d858/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9cc99ecc909fb99db6b1e19ad776d858/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7c8467c12d67e533af3d73e7c21304d9/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7c8467c12d67e533af3d73e7c21304d9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e54b736348fc6350b87bc9eb86724f6/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e54b736348fc6350b87bc9eb86724f6/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c636c46c1a4ab7861ecd1b3709c5f100/AndroidManifest.xml:21:5-23:60
@@ -111,7 +126,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/zhaozhaoxia/.gradle/ca
 INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml
 INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe5300323f0bbe96dee7b865bfdeb3b0/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml
 		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml
@@ -121,13 +136,19 @@ INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/Android
 		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe5300323f0bbe96dee7b865bfdeb3b0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/2242a880e22f4ad5eb5ecdeac64126a8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/2242a880e22f4ad5eb5ecdeac64126a8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0d5f8f22384230f45782475149a77621/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0d5f8f22384230f45782475149a77621/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9cc99ecc909fb99db6b1e19ad776d858/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/9cc99ecc909fb99db6b1e19ad776d858/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7c8467c12d67e533af3d73e7c21304d9/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7c8467c12d67e533af3d73e7c21304d9/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7edc4ee485e1b7bad84aef8e47c5f735/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e54b736348fc6350b87bc9eb86724f6/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e54b736348fc6350b87bc9eb86724f6/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c636c46c1a4ab7861ecd1b3709c5f100/AndroidManifest.xml:26:9-28:38
@@ -139,9 +160,9 @@ MERGED from [com.android.support:support-core-ui:26.1.0] /Users/zhaozhaoxia/.gra
 MERGED from [com.android.support:support-compat:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/797d1fabe628af11f22f0936faaba3ae/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/797d1fabe628af11f22f0936faaba3ae/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe5300323f0bbe96dee7b865bfdeb3b0/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a0891663f690ef3451a80bc33e60cb0e/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:design:26.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe5300323f0bbe96dee7b865bfdeb3b0/AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
 ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ecc95ce262a4144ad879989712549d54/AndroidManifest.xml:25:9-27:47
 	android:value

@@ -1,4 +1,4 @@
-#Sat Apr 07 13:19:01 CDT 2018
+#Sat Apr 07 13:50:15 CDT 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/13
-base.4=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/12
-base.3=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/15
-base.2=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/14
-base.1=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/16
-base.0=/Users/zhaozhaoxia/Desktop/Andorid_Sell_Quick/app/build/intermediates/transforms/dexMerger/debug/11
+base.5=/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/16
+base.4=/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/17
+base.3=/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/14
+base.2=/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/15
+base.1=/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/12
+base.0=/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/13
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex

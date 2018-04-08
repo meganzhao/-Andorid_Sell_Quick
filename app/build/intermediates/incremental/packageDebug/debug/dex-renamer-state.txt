@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-#Sat Apr 07 19:20:19 CDT 2018
-=======
-<<<<<<< HEAD
-#Sat Apr 07 18:24:19 CDT 2018
-=======
-#Sat Apr 07 15:44:47 CDT 2018
->>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
->>>>>>> 52b5f24a4b3d176f4179bb41d49ec318dfa55c6f
+#Sat Apr 07 21:26:17 CDT 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -15,11 +7,11 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/13
-base.4=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/14
-base.3=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/11
-base.2=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/12
-base.1=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/10
+base.5=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/16
+base.4=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/13
+base.3=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/14
+base.2=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/11
+base.1=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/12
 base.0=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/15
 path.5=classes.dex
 path.4=classes.dex

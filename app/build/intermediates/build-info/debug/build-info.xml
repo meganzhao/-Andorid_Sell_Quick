@@ -2,23 +2,13 @@
 <instant-run
     abi="x86"
     api-level="26"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xxhdpi"
     format="10"
     plugin-version="3.0.1"
-<<<<<<< HEAD
-    timestamp="1523146802477"
-=======
-<<<<<<< HEAD
-    timestamp="1523143452607"
-    token="4495216059629972603"
-    verifier="FULL_BUILD_REQUESTED" >
-=======
-    timestamp="1523133870428"
->>>>>>> 52b5f24a4b3d176f4179bb41d49ec318dfa55c6f
+    timestamp="1523154561839"
     token="6657719099675089518"
-    verifier="COLD_SWAP_REQUESTED" >
->>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -28,108 +18,81 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="884" />
     <task
         name="verifier"
         duration="0" />
 
     <artifact
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-        location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/outputs/apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
-        location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-=======
-        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
->>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
-        type="SPLIT" />
-    <artifact
-        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
     <artifact
         location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
+        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
         location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
         location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
+        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
         location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-<<<<<<< HEAD
-
-    <build
-        build-mode="FULL"
-        timestamp="1523143452607"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/outputs/apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-=======
-    <artifact
->>>>>>> 52b5f24a4b3d176f4179bb41d49ec318dfa55c6f
         location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/outputs/apk/debug/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1523145411157"
+        timestamp="1523154561839"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-<<<<<<< HEAD
-            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-=======
-            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
->>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
->>>>>>> 52b5f24a4b3d176f4179bb41d49ec318dfa55c6f
+            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
@@ -137,29 +100,6 @@
         <artifact
             location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/outputs/apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="FIELD_REMOVED"
-        timestamp="1523146409192"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-<<<<<<< HEAD
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1523146802477"
-        verifier="COLD_SWAP_REQUESTED" >
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 52b5f24a4b3d176f4179bb41d49ec318dfa55c6f
-        <artifact
-            location="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/outputs/apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
->>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
     </build>
 
 </instant-run>

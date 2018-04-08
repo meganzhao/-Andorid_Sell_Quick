@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-#Sat Apr 07 19:20:09 CDT 2018
-=======
-<<<<<<< HEAD
-#Sat Apr 07 18:24:17 CDT 2018
-=======
-#Sat Apr 07 15:44:41 CDT 2018
->>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
->>>>>>> 52b5f24a4b3d176f4179bb41d49ec318dfa55c6f
+#Sat Apr 07 21:25:56 CDT 2018

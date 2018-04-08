@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/4cfc1afd0c167c86a0be9b4e1417c8a7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/286bd8af9a07e0b3ebb7eed50998386d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/f1625d7c5f33308bd5052ebc6d538fe5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/cd1f685b817d8a75718012f8a8196178/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="77e5defcfc16341814061ebf0c129ec788d0e557">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.27.0.aar/521ca55bf2e42acb8f5f47ee90196808/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/facfb918c37d53924305311c88b0ef09/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b739661c7142579d33f42801cfb71882cd217727">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/ce86b99ecddeaff6a394135793f79e70/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b01381b98fecbc99b2b6856c2cef4594ce4b37e8">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/31253bb186deab23632eab20b42e185e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/43d7918d2301ea212449be19b0f1a4f0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63762d99e25ebfd92f60558dcef8aef334cc6dd3">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/a80175d78acfeca72ab9e58f224a3e43/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc9ea2bc291bbebc83f5b160d115c699bddc4e16">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/5a8a7f9d4b2638cc8db712421f0fc390/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/6c1ffacf702bdcfd7fda3db1544208ce/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/33a576b1b91bfdffa601b8d572406ee8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f63f2d9e3697a34c57d13a03e1bfdb9b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/fe0b4bafd8ff65016e43b95adb02dcc9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="252896ce41f2a84a2849e29235e66098be7d12ee">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/87bc645321e5c79ff287ec5659e14edd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/dd4e3af654652686f285f5303bc33c8a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2037412397254e43bf1ae0563586b2315291338">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-places-4.27.0.aar/5753de7e08e5b7f8760401f1207922b9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/87d23a654dfaeef6456f4557a04533f5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/ff0f0d2f6655fcbd8a8a0ad05cde742e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="79272e6855744c8c7b262796e63b16f85c9391ee">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/1eaf29230c25e7a9ed0733fbad071d93/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="66c2e87b6c3fc49891d1d0c05474a159390b0373">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/64bafe977905d1823735795f34f84b30/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.0.aar/f3516a1ae54ed6775a127e6cb302e6f1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fe130efe8e6f8359a01cbcb532d8881c942d2a1">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/2d4a366c0022d2ffaa2fd50bbcb99021/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="858c1e21a2570a2416153aecab70d27a11965e79">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/52cb1d21ce526748745c62f0d3a03f9d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="071364c6fcb3772aef9209b9db621c61a0686197">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/5c609606b4788866e3cd952feeeb53a6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c53bb0940ad4a33f17f6dd049a85ec40/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/f79a301b46daa7fb9cf8c6c65edf194c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fa1c476ff9673fc76f5cacb1bcc538dfad8b438">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/2d4f3c5cef4fb6a0a33be4edfe5a51e4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="54c67f87c9eb60be5eca37aa7d1a85f7651c4bc1">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/babc33cb5eaa8c9668bd0dbcf6621414/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43777ad2c3f87b64ced35a875ce2befa178a23da">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta6.aar/6d36ca87020dc4aef1dc4ddc056f334f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="93aa46d32d7316b4724a79cc2f2aad7f8eff72d5">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/8cc01e252cede77f9a942208e2b2ae7e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba42e6949397668e88ea3d2b188078ddf0143813">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/realm-android-library-3.0.0.aar/e1da488ef96d6417753e29f3a8077ca1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aed23c739ad564efb5193b88bc785868f7de878b">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/c20a3a713282535019f74fa30f7a7927/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.0-beta6/16c2d7faeb42b8f8afde9555e6afabcba5ac631c/constraint-layout-solver-1.1.0-beta6.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="16c2d7faeb42b8f8afde9555e6afabcba5ac631c">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.27.0.aar/00391b83f52a102c22bdec1d1fa67305/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/1306b081200b708f98f97145cd176996/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/e46a0fd500fcb3e100ef98954e80137a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5824717818f7ac8bd17b200b1b182c0313740c60">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c2926bef3f946868b16f2389f2e1b3f7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/fb8e65c77214b8b7143141bd83a2ca41/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7e3ff2cb093a99c8dc1ff3d50c176019fa5d7c1">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/763e710f8000526b693714d8e2732020/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="410ecd974ba7008f743e611ea7fe749321517231">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/a69078c0ce41b1a01bae45ff6b8ec6aa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4f81a342ac6bace97ad1420eb47fc11ab749a03">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.0.0/32a01bbb8cb421b6d53d7a102412142b0391c8c7/realm-annotations-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="32a01bbb8cb421b6d53d7a102412142b0391c8c7">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/ca8bc23a3b564c16ce3b0538836cab6c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/f438ecf72fcb3a4192ff5b286c509b63/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-share-4.27.0.aar/0c1b1d2398bf59f523e7eddf1e5ae7af/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a0c96cb2e74d3a6e692d920c9e03326e77f6429">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/68236a8e393883d47ede8dc504e3248d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8ec04dc91c0c90a0ceeca77c94c8b15cb7f3892">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/bd9a353358d873e8af12db9e199b2a92/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4c9dde3866f60967d73035b3445bb0f703429612">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/06d0f6945dc0f99d5eae329a08373bcf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88a6a291986ced98700a44cdc3933559cc63e993">
+        <dex dex="/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+
+</items>

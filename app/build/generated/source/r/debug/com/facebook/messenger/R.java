@@ -19,6 +19,7 @@ public final class R {
         public static final int messenger_button_white_bg_selector = 0x7f0700a9;
     }
     public static final class id {
+<<<<<<< HEAD
         public static final int messenger_send_button = 0x7f080096;
     }
     public static final class layout {
@@ -28,6 +29,17 @@ public final class R {
         public static final int messenger_button_send_white_large = 0x7f0a004a;
         public static final int messenger_button_send_white_round = 0x7f0a004b;
         public static final int messenger_button_send_white_small = 0x7f0a004c;
+=======
+        public static final int messenger_send_button = 0x7f08009a;
+    }
+    public static final class layout {
+        public static final int messenger_button_send_blue_large = 0x7f0a0046;
+        public static final int messenger_button_send_blue_round = 0x7f0a0047;
+        public static final int messenger_button_send_blue_small = 0x7f0a0048;
+        public static final int messenger_button_send_white_large = 0x7f0a0049;
+        public static final int messenger_button_send_white_round = 0x7f0a004a;
+        public static final int messenger_button_send_white_small = 0x7f0a004b;
+>>>>>>> 52b5f24a4b3d176f4179bb41d49ec318dfa55c6f
     }
     public static final class string {
         public static final int messenger_send_button_text = 0x7f0e009d;

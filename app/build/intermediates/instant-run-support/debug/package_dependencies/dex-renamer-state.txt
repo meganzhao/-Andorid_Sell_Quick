@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 #Sat Apr 07 19:00:22 CDT 2018
 base.0=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/16
+=======
+<<<<<<< HEAD
+#Sat Apr 07 17:25:28 CDT 2018
+base.0=/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/11
+=======
+#Sat Apr 07 15:36:55 CDT 2018
+base.0=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/48
+>>>>>>> e11acc4bcf96a69b6e4733df47b88584fbc4e9f6
+>>>>>>> 52b5f24a4b3d176f4179bb41d49ec318dfa55c6f
 path.0=classes.dex
 renamed.0=classes.dex

@@ -51,7 +51,11 @@
         </activity>
         <activity android:name="hu.ait.android.sellquick.Books" />
         <activity android:name="hu.ait.android.sellquick.Clothing" />
+<<<<<<< HEAD
         <activity android:name="hu.ait.android.sellquick.MyitemsActivity" />
+=======
+        <activity android:name="hu.ait.android.sellquick.addItem" />
+>>>>>>> 52b5f24a4b3d176f4179bb41d49ec318dfa55c6f
 
         <meta-data
             android:name="com.google.android.gms.version"

@@ -5,16 +5,16 @@
     android:orientation="vertical"
     android:layout_marginTop="20dp"
     android:layout_marginBottom="20dp"
-    android:background="@color/com_facebook_messenger_blue">
+    android:background="#5DADE2">
 
     <TextView
         android:id="@+id/title_type2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="title2"
-        android:background="@color/colorPrimary"
+        android:paddingLeft="10dp"
+        android:background="#3498DB"
         android:textColor="@android:color/white"
-        android:textSize="40sp"/>
+        android:textSize="32sp"/>
 
     <ImageView
         android:id="@+id/image_type2"
@@ -29,9 +29,10 @@
         android:id="@+id/content_type2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="content2"
-        android:textSize="16sp"
-        android:layout_margin="12dp"/>
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:paddingLeft="10dp"
+        android:layout_margin="5dp"/>
 
 
 </LinearLayout>

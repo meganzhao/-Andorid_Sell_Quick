@@ -5,26 +5,27 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp"
     tools:context=".Books">
-
-    <EditText
-        android:id="@+id/editText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="This is our books page"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="16dp" />
 
     <Button
         android:id="@+id/butt3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="7dp"
         android:onClick="addBook"
         android:text="Add a book for sale!"
         tools:layout_editor_absoluteX="44dp"
         tools:layout_editor_absoluteY="456dp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_books"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </android.support.v7.widget.RecyclerView>
 
     <Button
         android:id="@+id/butt2"

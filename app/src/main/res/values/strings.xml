@@ -10,5 +10,8 @@
     <string name="nav_sign_out">Sign out</string>
     <string name="img_dress">dress</string>
     <string name="img_book">book</string>
+    <string name="img_book2">book2</string>
+    <string name="img_book3">book3</string>
+    <string name="img_book4">book4</string>
     <string name="img_shoes">shoes</string>
 </resources>

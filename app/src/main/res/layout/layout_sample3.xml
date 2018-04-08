@@ -5,16 +5,17 @@
     android:orientation="vertical"
     android:layout_marginTop="20dp"
     android:layout_marginBottom="20dp"
-    android:background="@color/colorPrimary">
+    android:background="#F5B041">
 
     <TextView
         android:id="@+id/title_type3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="title3"
-        android:background="@color/colorPrimary"
+        android:paddingLeft="10dp"
+        android:text="$10 Tennis shoes"
+        android:background="#F39C12"
         android:textColor="@android:color/white"
-        android:textSize="40sp"/>
+        android:textSize="32sp"/>
 
     <ImageView
         android:id="@+id/image_type3"
@@ -29,8 +30,9 @@
         android:id="@+id/content_type3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="content3"
-        android:textSize="16sp"
-        android:layout_margin="12dp"/>
+        android:text="Never worn!"
+        android:textSize="20sp"
+        android:paddingLeft="10dp"
+        android:layout_margin="5dp"/>
 
 </LinearLayout>

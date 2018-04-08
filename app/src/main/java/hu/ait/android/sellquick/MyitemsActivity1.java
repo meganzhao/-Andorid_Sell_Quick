@@ -32,11 +32,11 @@ public class MyitemsActivity1 extends AppCompatActivity {
 
         SampleData data = new SampleData();
         //data.mTitle = getString(R.string.title_type1);
-        data.mTitle = "title1";
+        data.mTitle = "For Free!";
         data.mDrawableResId = getResources().getIdentifier(
                 getString(R.string.img_book), "drawable", getPackageName());
         //data.mContent = getString(R.string.content_type2, i);
-        data.mContent = "content1";
+        data.mContent = "Walden by Henry David Thoreau";
         dataSet.add(data);
 
         return dataSet;

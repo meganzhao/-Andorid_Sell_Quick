@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -9,6 +10,92 @@
     tools:openDrawer="start"
     tools:context="hu.ait.android.sellquick.MainActivity">
 
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <net.soulwolf.widget.ratiolayout.widget.RatioTextView
+            android:id="@+id/tvBook"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#EC7063"
+            android:gravity="center"
+            android:text="Books"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:clickable="true"
+            app:layoutSquare="true"/>
+
+        <net.soulwolf.widget.ratiolayout.widget.RatioTextView
+            android:id="@+id/tvElectronics"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#F5B041"
+            android:gravity="center"
+            android:text="Electronics"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:clickable="true"
+            app:layoutAspectRatio="1"/>
+    </LinearLayout>
+
+    <net.soulwolf.widget.ratiolayout.widget.RatioFrameLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        app:datumRatio="datumWidth"
+        app:widthRatio="16.0"
+        app:heightRatio="9.0"
+        android:layout_height="wrap_content">
+
+        <net.soulwolf.widget.ratiolayout.widget.RatioImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:datumRatio="datumWidth"
+            app:widthRatio="16.0"
+            app:heightRatio="7.0"
+            android:scaleType="centerCrop"/>
+
+        <net.soulwolf.widget.ratiolayout.widget.RatioTextView
+            android:id="@+id/tvCloth"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            app:datumRatio="datumWidth"
+            app:widthRatio="16.0"
+            android:background="#5DADE2"
+            android:clickable="true"
+            app:heightRatio="7.0"
+            android:text="Clothes"
+            android:textColor="@android:color/white"/>
+
+    </net.soulwolf.widget.ratiolayout.widget.RatioFrameLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:layout_marginBottom="2dp"
+        android:maxHeight="110dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logo"/>
+
+
+</LinearLayout>
     <android.support.design.widget.NavigationView
         android:id="@+id/nav_view"
         android:layout_width="wrap_content"
@@ -18,5 +105,8 @@
         app:menu="@menu/navigation_items">
 
     </android.support.design.widget.NavigationView>
+
+
+
 
 </android.support.v4.widget.DrawerLayout>

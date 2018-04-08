@@ -1,14 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-42:12
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-44:12
 MERGED from [io.realm:realm-android-library:3.0.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/realm-android-library-3.0.0.aar/e1da488ef96d6417753e29f3a8077ca1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/34b14e2afb7d592a34d620bc80c4e9b7/AndroidManifest.xml:2:1-6:12
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/f79a301b46daa7fb9cf8c6c65edf194c/AndroidManifest.xml:2:1-93:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/ca8bc23a3b564c16ce3b0538836cab6c/AndroidManifest.xml:21:1-31:12
 MERGED from [com.yqritc:recyclerview-multiple-viewtypes-adapter:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-multiple-viewtypes-adapter-1.1.0.aar/dd83985784afff4abfbfd7098a8f6fe7/AndroidManifest.xml:2:1-12:12
+MERGED from [net.soulwolf.widget:ratiolayout:2.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/ratiolayout-2.1.0.aar/0c98cbc5a46b70b13026a5d357d40a2c/AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:design:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/fb8e65c77214b8b7143141bd83a2ca41/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/2d4a366c0022d2ffaa2fd50bbcb99021/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.android:facebook-login:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/33a576b1b91bfdffa601b8d572406ee8/AndroidManifest.xml:21:1-31:12
@@ -69,20 +70,20 @@ MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/zhaozhaoxia
 MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/c7f8989420e587f0ccf053b1e4417079/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/ec72a462857f453c86081136f79c45ba/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/309b8724505db5a7a9563745fa361933/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-44:12
 	package
 		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-42:12
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-44:12
 		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
-		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-42:12
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:1-44:12
 		INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:2:11-69
@@ -105,7 +106,7 @@ ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidMani
 	android:name
 		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:8:5-40:19
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:8:5-42:19
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/34b14e2afb7d592a34d620bc80c4e9b7/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:12.0.1] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/34b14e2afb7d592a34d620bc80c4e9b7/AndroidManifest.xml:5:5-20
 MERGED from [com.firebaseui:firebase-ui-auth:3.3.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.0.aar/f79a301b46daa7fb9cf8c6c65edf194c/AndroidManifest.xml:15:5-91:19
@@ -229,9 +230,17 @@ ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidMani
 	android:name
 		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:38:19-42
 activity#hu.ait.android.sellquick.MyitemsActivity1
-ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:39:9-63
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:39:9-54
 	android:name
 		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:39:19-51
+activity#hu.ait.android.sellquick.Electronics
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:40:9-49
+	android:name
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:40:19-46
+activity#hu.ait.android.sellquick.Music
+ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:41:9-52
+	android:name
+		ADDED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml:41:19-40
 uses-sdk
 INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/src/main/AndroidManifest.xml
@@ -246,6 +255,8 @@ MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/zhaozhaoxi
 MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.27.0.aar/ca8bc23a3b564c16ce3b0538836cab6c/AndroidManifest.xml:24:5-26:41
 MERGED from [com.yqritc:recyclerview-multiple-viewtypes-adapter:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-multiple-viewtypes-adapter-1.1.0.aar/dd83985784afff4abfbfd7098a8f6fe7/AndroidManifest.xml:8:5-10:41
 MERGED from [com.yqritc:recyclerview-multiple-viewtypes-adapter:1.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-multiple-viewtypes-adapter-1.1.0.aar/dd83985784afff4abfbfd7098a8f6fe7/AndroidManifest.xml:8:5-10:41
+MERGED from [net.soulwolf.widget:ratiolayout:2.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/ratiolayout-2.1.0.aar/0c98cbc5a46b70b13026a5d357d40a2c/AndroidManifest.xml:8:5-10:41
+MERGED from [net.soulwolf.widget:ratiolayout:2.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/ratiolayout-2.1.0.aar/0c98cbc5a46b70b13026a5d357d40a2c/AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:design:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/fb8e65c77214b8b7143141bd83a2ca41/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/fb8e65c77214b8b7143141bd83a2ca41/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/2d4a366c0022d2ffaa2fd50bbcb99021/AndroidManifest.xml:20:5-44

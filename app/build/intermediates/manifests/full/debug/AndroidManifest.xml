@@ -55,6 +55,8 @@
         <activity android:name="hu.ait.android.sellquick.MyitemsActivity" />
         <activity android:name="hu.ait.android.sellquick.addItem" />
         <activity android:name="hu.ait.android.sellquick.MyitemsActivity1" />
+        <activity android:name="hu.ait.android.sellquick.Electronics" />
+        <activity android:name="hu.ait.android.sellquick.Music" />
 
         <meta-data
             android:name="com.google.android.gms.version"

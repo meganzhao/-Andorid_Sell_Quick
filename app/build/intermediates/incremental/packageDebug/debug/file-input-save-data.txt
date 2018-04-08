@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Apr 08 06:02:54 CDT 2018
+#Sun Apr 08 07:38:22 CDT 2018
 4.path=lib/armeabi-v7a/librealm-jni.so
 8.set=DEX
 6.path=lib/arm64-v8a/librealm-jni.so

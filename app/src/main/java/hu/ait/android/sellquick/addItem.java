@@ -8,6 +8,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.Toast;
 
 import com.google.firebase.database.DatabaseReference;
@@ -20,6 +21,7 @@ public class addItem extends AppCompatActivity {
     public EditText hour;
     public EditText price;
     public EditText bookName;
+
 
     DatabaseReference databaseItem;
 
@@ -46,6 +48,7 @@ public class addItem extends AppCompatActivity {
         price = (EditText) findViewById(R.id.price);
         hour = (EditText) findViewById(R.id.hour);
 
+
         init();
     }
 
@@ -61,7 +64,8 @@ public class addItem extends AppCompatActivity {
         databaseItem.child(id).setValue(item);
 
         Toast.makeText(this,"item added", Toast.LENGTH_LONG).show();
-
+        Intent bookss = new Intent(addItem.this, Books.class);
+        startActivity(bookss);
 
         butt5 = (Button)findViewById(R.id.butt5);
         butt5.setOnClickListener(new View.OnClickListener() {

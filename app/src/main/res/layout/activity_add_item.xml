@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -12,51 +12,55 @@
         android:id="@+id/enterItem"
         android:layout_width="242dp"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/hour"
         android:ems="10"
         android:hint="Please enter the item name"
         android:inputType="textPersonName|textPostalAddress"
         app:layout_constraintWidth_default="wrap"
-        tools:layout_editor_absoluteX="71dp"
-        tools:layout_editor_absoluteY="133dp" />
+         />
 
     <EditText
         android:id="@+id/hour"
         app:layout_constraintWidth_default="wrap"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_above="@+id/price"
+        android:layout_centerHorizontal="true"
         android:ems="10"
         android:hint="Please enter days of trying"
         android:inputType="number"
-        tools:layout_editor_absoluteX="84dp"
-        tools:layout_editor_absoluteY="179dp" />
+         />
 
     <EditText
         android:id="@+id/price"
         app:layout_constraintWidth_default="wrap"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
         android:ems="10"
         android:hint="Please enter price"
         android:inputType="numberDecimal"
-        tools:layout_editor_absoluteX="84dp"
-        tools:layout_editor_absoluteY="225dp" />
+         />
+
 
     <Button
         android:id="@+id/butt5"
         app:layout_constraintWidth_default="wrap"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/myButton2"
+        android:layout_centerHorizontal="true"
         android:onClick="toList"
-        android:text="Save"
-        tools:layout_editor_absoluteX="148dp"
-        tools:layout_editor_absoluteY="271dp" />
+        android:text="Save" />
 
     <Button
         android:id="@+id/butt4"
         app:layout_constraintWidth_default="wrap"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Back"
-        tools:layout_editor_absoluteX="280dp"
-        tools:layout_editor_absoluteY="459dp" />
-</LinearLayout>
+        android:layout_below="@+id/butt5"
+        android:layout_centerHorizontal="true"
+        android:text="Back" />
+</RelativeLayout>

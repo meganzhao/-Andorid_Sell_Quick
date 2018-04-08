@@ -552,6 +552,28 @@
     <declare-styleable name="NavigationView"><attr name="android:background"/><attr name="android:fitsSystemWindows"/><attr name="android:maxWidth"/><attr name="elevation"/><attr format="reference" name="menu"/><attr format="color" name="itemIconTint"/><attr format="color" name="itemTextColor"/><attr format="reference" name="itemBackground"/><attr format="reference" name="itemTextAppearance"/><attr format="reference" name="headerLayout"/></declare-styleable>
     <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/><attr name="android:popupAnimationStyle"/></declare-styleable>
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
+    <declare-styleable name="RatioAbsoluteLayout"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioButton"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioCardView"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioCheckBox"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioCheckedTextView"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioEditText"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioFrameLayout"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioGridLayout"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioGridView"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioImageButton"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioImageView"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioLinearLayout"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioListView"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioProgressBar"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioRadioButton"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioRadioGroup"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioRecyclerView"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioRelativeLayout"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioSpace"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioTableLayout"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioTextView"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
+    <declare-styleable name="RatioView"><attr name="widthRatio"/><attr name="heightRatio"/><attr name="datumRatio"/><attr name="layoutSquare"/><attr name="layoutAspectRatio"/></declare-styleable>
     <declare-styleable name="RecycleListView"><attr format="dimension" name="paddingBottomNoButtons"/><attr format="dimension" name="paddingTopNoTitle"/></declare-styleable>
     <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr name="android:descendantFocusability"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/><attr format="boolean" name="fastScrollEnabled"/><attr format="reference" name="fastScrollVerticalThumbDrawable"/><attr format="reference" name="fastScrollVerticalTrackDrawable"/><attr format="reference" name="fastScrollHorizontalThumbDrawable"/><attr format="reference" name="fastScrollHorizontalTrackDrawable"/></declare-styleable>
     <declare-styleable name="ScrimInsetsFrameLayout"><attr format="color|reference" name="insetForeground"/></declare-styleable>
@@ -644,6 +666,11 @@
             <enum name="screen" value="15"/>
             
             <enum name="add" value="16"/>
+        </attr></declare-styleable>
+    <declare-styleable name="ViewSizeCalculate"><attr format="float" name="widthRatio"/><attr format="float" name="heightRatio"/><attr format="boolean" name="layoutSquare"/><attr format="float" name="layoutAspectRatio"/><attr name="datumRatio">
+            <enum name="datumAuto" value="0"/>
+            <enum name="datumWidth" value="1"/>
+            <enum name="datumHeight" value="2"/>
         </attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
     <declare-styleable name="com_facebook_like_view"><attr format="color" name="com_facebook_foreground_color"/><attr format="string" name="com_facebook_object_id"/><attr name="com_facebook_object_type">

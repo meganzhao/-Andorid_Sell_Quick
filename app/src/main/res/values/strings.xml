@@ -14,4 +14,6 @@
     <string name="img_book3">book3</string>
     <string name="img_book4">book4</string>
     <string name="img_shoes">shoes</string>
+    <string name="nav_electronics">Electronics</string>
+    <string name="nav_music">Music</string>
 </resources>

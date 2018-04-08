@@ -4,7 +4,24 @@
             "outputFile": "/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-lo/values-lo.xml",
             "map": [
                 {
-                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/c1348bf0072e528c2357601dea31b25d/res/values-lo/values-lo.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/f438ecf72fcb3a4192ff5b286c509b63/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "2990",
+                        "endColumns": "190",
+                        "endOffsets": "3176"
+                    }
+                },
+                {
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f63f2d9e3697a34c57d13a03e1bfdb9b/res/values-lo/values-lo.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/73dd12740db8b81a6f01c8b7ed15bb65/res/values-lo/values.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/5a8a7f9d4b2638cc8db712421f0fc390/res/values-lo/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f3f8440f9f7bce71842caa525537f9c4/res/values-lo/values-lo.xml",
+                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/87bc645321e5c79ff287ec5659e14edd/res/values-lo/values-lo.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -52,23 +69,6 @@
                         "startOffsets": "4640",
                         "endColumns": "100",
                         "endOffsets": "4736"
-                    }
-                },
-                {
-                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/4bcbb3dd72d32500f8d30c21669dd596/res/values-lo/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "190",
-                        "endOffsets": "437"
-                    },
-                    "to": {
-                        "startLines": "27",
-                        "startColumns": "4",
-                        "startOffsets": "2990",
-                        "endColumns": "190",
-                        "endOffsets": "3176"
                     }
                 }
             ]

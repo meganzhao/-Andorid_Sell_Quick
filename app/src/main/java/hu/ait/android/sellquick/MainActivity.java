@@ -50,19 +50,20 @@ public class MainActivity extends AppCompatActivity {
                         menuItem.setChecked(true);
                         switch (menuItem.getItemId()) {
                             case R.id.nav_clothes:
-                                Intent clothes;
-                                clothes = new Intent(MainActivity.this, Clothing.class);
+                                Intent clothes = new Intent(MainActivity.this, Clothing.class);
                                 startActivity(clothes);
                                 //createAlertDialog();
                                 drawerLayout.closeDrawer(GravityCompat.START);
                                 break;
                             case R.id.nav_books:
-                                Intent books;
-                                books = new Intent(MainActivity.this, Books.class);
+                                Intent books = new Intent(MainActivity.this, Books.class);
                                 startActivity(books);
                                 //openMap();
                                 drawerLayout.closeDrawer(GravityCompat.START);
                                 break;
+                            case R.id.nav_items_list:
+                                Intent myitems = new Intent(MainActivity.this, MyitemsActivity.class);
+                                startActivity(myitems);
                             case R.id.nav_signout:
                                 signOut();
                                 drawerLayout.closeDrawer(GravityCompat.START);

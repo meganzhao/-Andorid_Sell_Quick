@@ -1,4 +1,4 @@
-#Sat Apr 07 15:36:55 CDT 2018
-base.0=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/48
+#Sat Apr 07 19:00:22 CDT 2018
+base.0=/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/transforms/dexMerger/debug/16
 path.0=classes.dex
 renamed.0=classes.dex

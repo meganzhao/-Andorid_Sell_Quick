@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zhaozhaoxia/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "/Users/gaoziyang/Desktop/Andorid_SellQuick/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/zhaozhaoxia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f63f2d9e3697a34c57d13a03e1bfdb9b/res/values-port/values-port.xml",
+                    "source": "/Users/gaoziyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/8603f1dbcf9ddd15ff2b7d29317da657/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

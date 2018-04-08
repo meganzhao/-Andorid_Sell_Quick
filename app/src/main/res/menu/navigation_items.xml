@@ -2,7 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/nav_clothes"
-        android:title="@string/nav_clothes" />
+        android:title="@string/nav_clothes"
+        android:icon="@drawable/clothes"
+        />
     <item
         android:id="@+id/nav_books"
         android:title="@string/nav_books"/>

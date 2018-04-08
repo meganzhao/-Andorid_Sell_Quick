@@ -29,15 +29,6 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        //testing to go to next page
-        button = findViewById(R.id.buttonSignin);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(LoginActivity.this, MainActivity.class));
-            }
-        });
-
         // Choose authentication providers
         List<AuthUI.IdpConfig> providers = Arrays.asList(
                 new AuthUI.IdpConfig.Builder(AuthUI.EMAIL_PROVIDER).build(),
@@ -52,11 +43,15 @@ public class LoginActivity extends AppCompatActivity {
                             .createSignInIntentBuilder()
                             .setIsSmartLockEnabled(false)
                             .setAvailableProviders(providers)
+                            .setLogo(R.drawable.logo)
+                            .setTheme(R.style.AppTheme)
                             .setTosUrl("https://superapp.example.com/terms-of-service.html")
                             .setPrivacyPolicyUrl("https://superapp.example.com/privacy-policy.html")
                             .build(),
                     RC_SIGN_IN
             );
+        } else{
+            startActivity(new Intent(LoginActivity.this, MainActivity.class));
         }
 
         //not sure if we need this or not

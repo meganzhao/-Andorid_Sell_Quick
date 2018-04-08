@@ -4,7 +4,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-c
+    c
     <application
         android:name=".ItemApplication"
         android:allowBackup="true"
@@ -34,8 +34,9 @@ c
         </activity>
         <activity android:name=".Books" />
         <activity android:name=".Clothing" />
-        <activity android:name=".MyitemsActivity"></activity>
-        <activity android:name=".addItem"></activity>
+        <activity android:name=".MyitemsActivity" />
+        <activity android:name=".addItem" />
+        <activity android:name=".MyitemsActivity1"></activity>
     </application>
 
 </manifest>

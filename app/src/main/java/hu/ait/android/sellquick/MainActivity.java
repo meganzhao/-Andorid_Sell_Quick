@@ -62,8 +62,12 @@ public class MainActivity extends AppCompatActivity {
                                 drawerLayout.closeDrawer(GravityCompat.START);
                                 break;
                             case R.id.nav_items_list:
-                                Intent myitems = new Intent(MainActivity.this, MyitemsActivity.class);
-                                startActivity(myitems);
+//                                Intent myitems = new Intent(MainActivity.this, MyitemsActivity.class);
+//                                startActivity(myitems);
+                                  Intent myitems1 = new Intent(MainActivity.this, MyitemsActivity1.class);
+                                  startActivity(myitems1);
+                                  drawerLayout.closeDrawer(GravityCompat.START);
+                                  break;
                             case R.id.nav_signout:
                                 signOut();
                                 drawerLayout.closeDrawer(GravityCompat.START);

@@ -34,6 +34,17 @@ public class Books extends AppCompatActivity {
             }
         });
     }
+    public void backToMain(View view){
+        butt2 = (Button)findViewById(R.id.butt2);
+        butt2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent back = new Intent(Books.this, MainActivity.class);
+                startActivity(back);
+
+            }
+        });
+    }
 
     public void init(){
         butt2 = (Button)findViewById(R.id.butt2);
